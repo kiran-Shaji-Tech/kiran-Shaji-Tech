@@ -4,7 +4,7 @@
 👯 I’m excited to collaborate on cloud-based and DevOps projects  
 🌱 I’m currently deep diving into **Azure services** and **CI/CD pipelines**  
 📫 How to reach me: [kiranshaji95@gmail.com](mailto:kiranshaji95@gmail.com)  
-🏅 Certified: **Microsoft Certified: Azure Solutions Architect Expert | Alibaba Cloud security Specilist | Multi Cloud Expert (AWS,Alibaba,Hetzner)t**  
+🏅 Certified: **Microsoft Certified: Azure Solutions Architect Expert | Alibaba Cloud security Specilist | Multi Cloud Expert (AWS,Alibaba,Hetzner,Google Cloud)**  
 ⚡ Fun fact: I’m always learning something new in tech, and figuring out how to make it work! 🧐
 
 ---
